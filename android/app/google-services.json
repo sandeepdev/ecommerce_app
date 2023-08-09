@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1036783461845",
+    "project_id": "ecommerc-app-flutter",
+    "storage_bucket": "ecommerc-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036783461845:android:158cfbda70901501d5495c",
+        "android_client_info": {
+          "package_name": "com.example.buy_india_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036783461845-rneboap19phq4bauomcc628dhnq3nqna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA9aFhPDKO1pbgDQDpbpOJue3qJO6Ar2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036783461845-rneboap19phq4bauomcc628dhnq3nqna.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1036783461845-i9je3n8r7jhspgg881i55m8hkskv0o45.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buyIndiaApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
